@@ -11,6 +11,9 @@ const nextConfiguration = {
       });
   
       return config;
+    },
+    images: {
+      domains: ["s3-alpha-sig.figma.com"]
     }
   };
   
